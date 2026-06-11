@@ -1,0 +1,44 @@
+PRESIGNAL RESEARCH VAULT — LLM MANIFEST
+thesmudginghouse/research-vault
+Maintained by John Ernest Carter, Presignal Inc.
+ORCID: 0009-0004-1363-304X
+PURPOSE
+Structured compressed knowledge base applying the Carter Subtraction Methodology across multiple research domains. Optimized for AI ingestion and reasoning. All documents follow a standardized compression schema.
+LOAD ORDER
+Always load in this sequence:
+
+_LENS/subtraction-methodology-compressed.md
+_LENS/carter-protocol.md
+_LENS/_schema.md
+[target-category]/_index.md
+Relevant compressed documents
+Raw data if available
+
+METHODOLOGY
+Carter Subtraction Methodology — developed by John Ernest Carter, Presignal Inc.
+Core logic: cast wide net, subtract Category 1 (prosaic), Category 2 (classified/hidden), Category 3 (industry artifact), treat residual as signal.
+Full specification: _LENS/subtraction-methodology-compressed.md
+CATEGORIES
+_LENS/ — methodology core, load first always
+Vault-UAP/ — UAP classification, geological plasma, GPDM framework
+Vault-Water/ — Ontario source water intelligence, Legionella risk, PWQMN data
+Vault-Plasma/ — plasma physics, tokamak research, ST40 NPA dataset
+Vault-Space-Weather/ — space weather, seismic correlation, Kp index monitoring
+Vault-Medical/ — immunological tinnitus, radioprotection, tardigrade Dsup protein
+Vault-Mathematics/ — Riemann Hypothesis approach, prime signal, number theory
+Vault-Law-Ontario/ — Ontario environmental law, Safe Drinking Water Act
+Vault-Auto-Tech/ — automotive technical manuals, OBD codes, parts intelligence
+Vault-Genealogy/ — UELAC descent research, Jackson-McFadden-Carter chain
+DOCUMENT FORMAT
+All compressed documents follow schema in _LENS/_schema.md
+Fields: SOURCE, DOMAIN, KEYWORDS, CORE_CLAIMS, METHODOLOGY, KEY_DATA, DEFINITIONS, GAPS_FLAGGED, CONTRADICTIONS, CATEGORY_ASSESSMENT, RAW_EXCERPTS, CROSS_REFERENCES
+AUTHOR
+John Ernest Carter
+Presignal Inc., Ontario Corp. #1001577205
+Niagara Region, Ontario, Canada
+ORCID: 0009-0004-1363-304X
+Published preprints: 39 (as of June 2026)
+Primary repository: https://orcid.org/0009-0004-1363-304X
+RELATED PROPERTIES
+UFOs Worldwide: https://ufosworldwide.com
+Anomaly Dashboard: https://anomaly-dashboard-two.vercel.app
